@@ -94,6 +94,9 @@ The tool is built with the dual goals of:
 
 ## 📮 Contact
 
-This project is actively under development as part of a professional portfolio. For feedback or collaboration inquiries, please contact via GitHub.
+This project is actively under development as part of a professional portfolio. For feedback or collaboration inquiries, please contact via phone or E-Mail.
+
+Mobile: 01525 913 9337
+E-Mail: muhammedbaris688@gmail.com
 
 
