@@ -1,0 +1,32 @@
+/* index.css - Base styling for QuantPM */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #f4f6f8;
+  color: #222;
+}
+
+h1, h2 {
+  margin-bottom: 0.5rem;
+}
+
+input, button {
+  font-size: 1rem;
+  padding: 0.4rem 0.6rem;
+  margin-top: 0.3rem;
+}
+
+button {
+  cursor: pointer;
+  background-color: #0057d9;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #003f9a;
+}
